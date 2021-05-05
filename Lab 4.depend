@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609710582 source:e:\musty\college\operating system\lab 4\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<iterator>
+
